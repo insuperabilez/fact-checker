@@ -15,7 +15,7 @@ The fact-checker implements a comprehensive ETL pipeline that:
 - Configurable training pipeline
 - Model evaluation with accuracy and F1 metrics
 
-###Model
+### Model
 
 https://huggingface.co/insuperabile/modernbert-factcheck
 
